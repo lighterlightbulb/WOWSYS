@@ -19,6 +19,10 @@ Clearly, these are very ambitious goals that will not be reached without taking 
 
 We dedicate WOWSYS as free and unencumbered software released into the public domain.
 
+## Documentation
+
+We aim to fully document WOWSYS using the documentation tool named Doxygen. Clone this repository, and run `doxygen Doxyfile` to output a full documentation in both HTML and LaTex form.
+
 ## Build
 
 Right now, WOWSYS has only been tested to build, and is only supported to build on a Windows 10 64-bit machine with Windows Subsystem for Linux installed. Linux build support will hopefully be added soon.
